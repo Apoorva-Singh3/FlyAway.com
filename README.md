@@ -1,2 +1,2 @@
 # FlyAway.com
-FSJD-Phase2-Project-SL
+Airline Ticketing Portal
